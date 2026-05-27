@@ -1,0 +1,6 @@
+{
+  "name": "MedRss Ai",
+  "description": "Convert any website into an RSS feed with 24h updates, combine feeds into subscription bundles, and chat with articles using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
