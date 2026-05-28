@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/3ca9578d-d6e4-4f7b-a4df-cba678269b3b
+View your app in : https://medrss-ai.vercel.app/
 
 ## Run Locally
 
